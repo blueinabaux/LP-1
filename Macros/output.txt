@@ -1,0 +1,8 @@
+['INCR', 3, 1]
+
+======== MDT TABLE ========
+MOVER P3 P1 
+ADD P3 P2 
+MOVEM P3 P1 
+MEND
+
